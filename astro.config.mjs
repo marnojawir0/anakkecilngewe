@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 import cloudflare from '@astrojs/cloudflare';
 
 export default defineConfig({
-  site: 'https://bocilmaininmemek.pages.dev',
+  site: 'https://anakkecilngewe.pages.dev',
   output: 'server',
   adapter: cloudflare(),
   integrations: [
